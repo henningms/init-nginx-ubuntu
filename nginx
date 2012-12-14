@@ -65,7 +65,7 @@
 #------------------------------------------------------------------------------
 #                               Consts
 #------------------------------------------------------------------------------
-PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/nginx/sbin
 DAEMON=/opt/nginx/sbin/nginx
 
 PS="nginx"
